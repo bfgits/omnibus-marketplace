@@ -93,7 +93,7 @@
       "value": "Standard_D2_v2"
     },
     "baseUrl": {
-      "value": "https://raw.githubusercontent.com/chef-partners/omnibus-marketplace/master/arm-templates/automate"
+      "value": "https://raw.githubusercontent.com/chef-partners/omnibus-marketplace/yzl/CLOUD-505/arm-templates/automate"
     }
   }
 }
